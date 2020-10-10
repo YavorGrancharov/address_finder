@@ -1,0 +1,13 @@
+{
+  "fileServerFolder": "../../dist/out-tsc/cypress",
+  "fixturesFolder": "../../dist/out-tsc/cypress/fixtures",
+  "integrationFolder": "../../dist/out-tsc/cypress/integration",
+  "pluginsFile": "../../dist/out-tsc/cypress/plugins/index.js",
+  "supportFile": false,
+  "video": true,
+  "videosFolder": "../../dist/out-tsc/cypress/videos",
+  "screenshotsFolder": "../../dist/out-tsc/cypress/screenshots",
+  "chromeWebSecurity": false,
+  "viewportWidth": 1920,
+  "viewportHeight": 1080
+}
